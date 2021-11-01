@@ -9,4 +9,4 @@ push github
 
 创建分支dev
 
-在main分支下修改内容：main
+更改冲突内容为正确的，删除原冲突的地方
