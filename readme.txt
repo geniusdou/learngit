@@ -9,8 +9,6 @@ push github
 
 创建分支dev
 
+更改冲突内容为正确的，删除原冲突的地方
 
-在分支feature下修改内容：feature
-
-------------1102
-测试禁用fast forward模式合并分支
+禁用快速模式合并分支
