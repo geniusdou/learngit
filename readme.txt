@@ -11,3 +11,6 @@ push github
 
 
 在分支feature下修改内容：feature
+
+------------1102
+测试禁用fast forward模式合并分支
